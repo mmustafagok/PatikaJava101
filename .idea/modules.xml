@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaireninAlaniVeCevresi/DaireninAlaniVeCevresi.iml" filepath="$PROJECT_DIR$/DaireninAlaniVeCevresi/DaireninAlaniVeCevresi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/HipotenusBulanProgram/HipotenusBulanProgram.iml" filepath="$PROJECT_DIR$/HipotenusBulanProgram/HipotenusBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDVHesaplayanProgram/KDVHesaplayanProgram.iml" filepath="$PROJECT_DIR$/KDVHesaplayanProgram/KDVHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavProgram/ManavProgram.iml" filepath="$PROJECT_DIR$/ManavProgram/ManavProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamasiHesaplayanProgram/NotOrtalamasiHesaplayanProgram.iml" filepath="$PROJECT_DIR$/NotOrtalamasiHesaplayanProgram/NotOrtalamasiHesaplayanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaJava101.iml" filepath="$PROJECT_DIR$/PatikaJava101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
     </modules>
   </component>
 </project>
