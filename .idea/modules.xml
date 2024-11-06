@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/FaktoriyelKombinasyon/FaktoriyelKombinasyon.iml" filepath="$PROJECT_DIR$/FaktoriyelKombinasyon/FaktoriyelKombinasyon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" filepath="$PROJECT_DIR$/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/GirilenSayidanKucukKuvvetler/GirilenSayidanKucukKuvvetler.iml" filepath="$PROJECT_DIR$/GirilenSayidanKucukKuvvetler/GirilenSayidanKucukKuvvetler.iml" />
       <module fileurl="file://$PROJECT_DIR$/HarmonikSayilar/HarmonikSayilar.iml" filepath="$PROJECT_DIR$/HarmonikSayilar/HarmonikSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/HavaSicakliginaKarsiEtkinlik/HavaSicakliginaKarsiEtkinlik.iml" filepath="$PROJECT_DIR$/HavaSicakliginaKarsiEtkinlik/HavaSicakliginaKarsiEtkinlik.iml" />
@@ -24,7 +25,9 @@
       <module fileurl="file://$PROJECT_DIR$/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/MinMax/MinMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamasiHesaplayanProgram/NotOrtalamasiHesaplayanProgram.iml" filepath="$PROJECT_DIR$/NotOrtalamasiHesaplayanProgram/NotOrtalamasiHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/Palindrom/Palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaJava101.iml" filepath="$PROJECT_DIR$/PatikaJava101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" filepath="$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilariSirala/SayilariSirala.iml" filepath="$PROJECT_DIR$/SayilariSirala/SayilariSirala.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifGecme/SinifGecme.iml" filepath="$PROJECT_DIR$/SinifGecme/SinifGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
