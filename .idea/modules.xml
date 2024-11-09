@@ -25,9 +25,13 @@
       <module fileurl="file://$PROJECT_DIR$/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/MinMax/MinMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamasiHesaplayanProgram/NotOrtalamasiHesaplayanProgram.iml" filepath="$PROJECT_DIR$/NotOrtalamasiHesaplayanProgram/NotOrtalamasiHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/Palindrom/Palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaJava101.iml" filepath="$PROJECT_DIR$/PatikaJava101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveAsal/RecursiveAsal.iml" filepath="$PROJECT_DIR$/RecursiveAsal/RecursiveAsal.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" filepath="$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursivePattern/RecursivePattern.iml" filepath="$PROJECT_DIR$/RecursivePattern/RecursivePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveUsAlma/RecursiveUsAlma.iml" filepath="$PROJECT_DIR$/RecursiveUsAlma/RecursiveUsAlma.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilariSirala/SayilariSirala.iml" filepath="$PROJECT_DIR$/SayilariSirala/SayilariSirala.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifGecme/SinifGecme.iml" filepath="$PROJECT_DIR$/SinifGecme/SinifGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
